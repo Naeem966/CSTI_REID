@@ -1,0 +1,8 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.25
+Pillow>=10
+PyYAML>=6
+scipy>=1.11
+pytest>=8
+# Optional: timm>=1.0 for DeiT-S
